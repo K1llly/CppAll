@@ -1,0 +1,11 @@
+git status
+
+git add . 
+
+ya da
+
+git add (dosya ismi)
+
+git commit -m "mesaj"
+
+git push origin master
